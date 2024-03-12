@@ -4,6 +4,7 @@
     nav{
         position: relative;
         top: 4em;
+        left: 3.4em;
     }
 }
 @media screen and (max-width: 650px) {
