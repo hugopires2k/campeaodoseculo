@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1200px) {
+    nav{
+        position: relative;
+        top: 4em;
+    }
+}
+@media screen and (max-width: 650px) {
+    header h1{
+        font-size: 1.5em;
+    }
+}
+@media screen and (max-width: 700px) {
+    article h1{
+        font-size: 1.5em;
+    }
+    
+}
